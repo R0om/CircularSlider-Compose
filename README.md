@@ -5,7 +5,7 @@ A simple circular slider in Compose to Android mobile app. Rate me :D
 ScreenShots
 --------
 
-![Circular Slider](https://github.com/R0om/CircularSlider-Compose/blob/main/images/Screenshot_20220419-165316.png)
+![Circular Slider](https://github.com/R0om/CircularSlider-Compose/blob/main/images/Screenshot_20220419-165316.png =360x)
 
 
 License
